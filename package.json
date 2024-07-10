@@ -2,9 +2,9 @@
   "name": "json-server",
   "version": "1.0.0",
   "description": "",
-  "main": "api/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
